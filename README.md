@@ -1,4 +1,5 @@
 # exif-mcp
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/stass/exif-mcp)](https://archestra.ai/mcp-catalog/stass__exif-mcp)
 
 An MCP server that allows LLMs (or humans) to read image metadata on-demand, entirely offline. Based on the excellent exifr library it's exremely fast and does not rely on any external tools.
 
