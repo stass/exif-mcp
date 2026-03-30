@@ -9,6 +9,10 @@ Usecases:
 
 Ths tool is used extensively by the reverse geolocation service [PlaceSpotter](https://www.placespotter.com/) for development and testing.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/stass-exif-mcp).
+
 ## Overview
 
 `exif-mcp` is a Model Context Protocol (MCP) server that provides tools for extracting various metadata segments from images. Built with TypeScript, it leverages the excellent [exifr](https://github.com/MikeKovarik/exifr) library to parse metadata from images in common formats like JPEG, PNG, TIFF, and HEIC.  This allows this service to parse image metadata without executing any external tools which allows it to be both highly efficient and secure.
